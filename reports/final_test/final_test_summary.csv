@@ -1,0 +1,2 @@
+Model,Training Fraction,Best Validation Macro-F1,Test Samples,Test Accuracy,Test Macro-F1,Test Weighted-F1
+Original Weighted V2 - 25%,25%,0.4963420420529763,1999,0.6843421710855427,0.4575467496327758,0.6718151754647955

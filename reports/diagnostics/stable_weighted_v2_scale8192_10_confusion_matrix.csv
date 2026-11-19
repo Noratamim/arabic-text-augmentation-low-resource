@@ -1,0 +1,5 @@
+﻿,Predicted OBJ,Predicted NEG,Predicted NEUTRAL,Predicted POS
+Actual OBJ,963,178,23,172
+Actual NEG,68,233,17,18
+Actual NEUTRAL,52,76,12,26
+Actual POS,41,17,3,98

@@ -1,0 +1,24 @@
+# Local datasets: do not commit the upstream ASTD files until redistribution terms are confirmed.
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Notebook / Python caches
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Model and experiment outputs
+models/
+checkpoints/
+outputs/
+reports/figures/*
+!reports/figures/.gitkeep
+*.pt
+*.pth
+*.pkl
+*.joblib
